@@ -4,7 +4,6 @@ html, body {
 }
 
 body {
-    /*background-color: black;*/
     background-image: url(../img/BackgroundImg.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,30 +15,58 @@ a {
     text-decoration: none;
 }
 
-nav, footer {
-    display: flex;
-    background-color: black;
-    width: 100vw;
+nav {
+
 }
-    .nav_left, .footer_left {
-        
-    }
-        .nav_left_logo {
-            height: 150px;
-            width: 300px;
-        }
-    .nav_right, .footer_right {
-        
-    }
-        .nav_right_button, .footer_right_button {
-            color: #F3EA13;
-        }
-            .nav_right_button:hover, .footer_right_button:hover {
-                cursor: pointer;
-                color: white;
-            }
+
 footer {
     position: fixed;
     bottom: 0;
     height: 5vh;
 }
+
+nav, footer {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    width: 100vw;
+}
+    .nav_left, .footer_left {
+
+    }
+        .nav_left_logo {
+            height: 150px;
+            width: 300px;
+        }
+            .nav_left_logo:hover {
+                filter: invert(61%) sepia(92%) saturate(432%) hue-rotate(18deg) brightness(93%) contrast(102%);
+            }
+        .footer_left_disclaimer {
+            color: #F3EA13;
+            font-size: 15px;
+        }
+    .nav_right, .footer_right {
+        display: flex;
+    }
+        .nav_right_button, .footer_right_button {
+            color: #F3EA13;
+            margin: 25px;
+        }
+            .nav_right_button:hover, .footer_right_button:hover {
+                cursor: pointer;
+                color: #BCB800;
+            }
+
+.button_wrapper {
+    transition: transform .2s;
+}
+    .button_wrapper:hover {
+        transform: scale(1.10);
+    }
+
+.contact {
+
+}
+    .contact_bar {
+        background-color: #F3EA13;
+    }

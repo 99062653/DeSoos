@@ -7,9 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Agenda\" />
-    <Folder Include="Views\Info\" />
     <Folder Include="Views\Contact\" />
+    <Folder Include="Views\Contact\" />
+    <Folder Include="Views\Info\" />
+    <Folder Include="Views\Agenda\" />
+    <Folder Include="Views\Photo\" />
     <Folder Include="Views\Photo\" />
   </ItemGroup>
 
