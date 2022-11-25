@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Agenda\" />
+    <Folder Include="Views\Info\" />
+    <Folder Include="Views\Contact\" />
+    <Folder Include="Views\Photo\" />
+  </ItemGroup>
+
+</Project>
