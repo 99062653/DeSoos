@@ -11,16 +11,28 @@
 <body>
     <header>
         <nav>
-            <div class="nav_left">
-                <a href="/">
-                    <img class="nav_left_logo" src="~/img/SoosLogo.png" alt="Soos Logo" />
-                </a>
-            </div>
-            <div class="nav_right">
-                <a class="nav_right_button" href="/Agenda"><i class="fa-solid fa-calendar-days"></i> Agenda</a>
-                <a class="nav_right_button" href="/Photo"><i class="fa-solid fa-camera"></i> Foto's'</a>
-                <a class="nav_right_button" href="/Info"><i class="fa-solid fa-circle-info"></i> Info</a>
-                <a class="nav_right_button" href="/Contact"><i class="fa-solid fa-address-book"></i> Contact</a>
+            <div class="nav_inner">
+                <div class="nav_left">
+                    <div class="button_wrapper">
+                        <a href="/">
+                            <img class="nav_left_logo" src="~/img/SoosLogo.svg" alt="Soos Logo" />
+                        </a>
+                    </div>
+                </div>
+                <div class="nav_right">
+                    <div class="button_wrapper">
+                        <a class="nav_right_button" href="/Agenda"><i class="fa-solid fa-calendar-days"></i> Agenda</a>
+                    </div>
+                    <div class="button_wrapper">
+                        <a class="nav_right_button" href="/Photo"><i class="fa-solid fa-camera"></i> Foto's</a>
+                    </div>
+                    <div class="button_wrapper">
+                        <a class="nav_right_button" href="/Info"><i class="fa-solid fa-circle-info"></i> Info</a>
+                    </div>
+                    <div class="button_wrapper">
+                        <a class="nav_right_button" href="/Contact"><i class="fa-solid fa-address-book"></i> Contact</a>
+                    </div>
+                </div>
             </div>
         </nav>
     </header>
@@ -29,14 +41,30 @@
             @RenderBody()
         </main>
     </div>
+    <div class="contact">
+        <div class="contact_bar"></div>
+        <div class="contact_left">
+            <p class="contact_header">Lorem ipsum dolor sit amet</p>
 
-    <footer>
-        <div class="footer_left">
-            <p>© 2022 SJWA De Soos. All Rights Reserved.</p>
         </div>
-        <div class="footer_right">
-            <a class="footer_right_button" target="_blank" href="https://www.facebook.com/desoosalmkerk"><i class="fa-brands fa-facebook"></i></a>
-            <a class="footer_right_button" target="_blank" href="https://www.instagram.com/soos_almkerk/?hl=nl"><i class="fa-brands fa-instagram"></i></a>
+        <div class="contact_right">
+            <p class="contact_header">Lorem ipsum dolor sit amet</p>
+
+        </div>
+    </div>
+    <footer>
+        <div class="footer_inner">
+            <div class="footer_left">
+                <p class="footer_left_disclaimer">© 2022 SJWA De Soos. All Rights Reserved.</p>
+            </div>
+            <div class="footer_right">
+                <div class="button_wrapper">
+                    <a class="footer_right_button" target="_blank" href="https://www.facebook.com/desoosalmkerk"><i class="fa-brands fa-facebook"></i></a>
+                </div>
+                <div class="button_wrapper">
+                    <a class="footer_right_button" target="_blank" href="https://www.instagram.com/soos_almkerk/?hl=nl"><i class="fa-brands fa-instagram"></i></a>
+                </div>
+            </div>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
