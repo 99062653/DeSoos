@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Hex2XD+7eWxrKGI1he/WM97EbPFLHJioOGrJWqxGPo4=",
+  "Hash": "17xoUo0kqzMkZHkAiPnYLe2HTUc+wEl4LL3fZA84xrk=",
   "Source": "DeSoos",
   "BasePath": "_content/DeSoos",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DeSoos\\wwwroot",
       "Source": "DeSoos",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DeSoos.styles.css",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DeSoos.styles.css",
       "SourceId": "DeSoos",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "DeSoos.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DeSoos.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DeSoos.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DeSoos.bundle.scp.css",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DeSoos.bundle.scp.css",
       "SourceId": "DeSoos",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "DeSoos.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DeSoos.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DeSoos.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\css\\site.css",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\favicon.ico",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\BackgroundImg.png",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\BackgroundImg.png",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "img/BackgroundImg.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\BackgroundImg.png"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.png",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.png",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "img/SoosLogo.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SoosLogo.png"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.svg",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.svg",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "img/SoosLogo.svg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SoosLogo.svg"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\js\\site.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -18,9 +18,6 @@ namespace DeSoos.Controllers
 
         public IActionResult Index()
         {
-            if (!_db.Database.CanConnect()) {
-                return Redirect("/nee");
-            }
             return View();
         }
 

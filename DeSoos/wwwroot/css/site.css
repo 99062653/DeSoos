@@ -22,11 +22,11 @@ nav {
 footer {
     position: fixed;
     bottom: 0;
-    height: 5vh;
+    height: 7.5vh;
 }
 
 nav, footer {
-    background-color: black;
+    background: rgba(25, 25, 25, .90);
     width: 100vw;
 }
     .nav_inner, .footer_inner {
