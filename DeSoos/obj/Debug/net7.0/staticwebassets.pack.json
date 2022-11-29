@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DeSoos.bundle.scp.css",
-      "PackagePath": "staticwebassets\\DeSoos.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -27,54 +23,6 @@
     {
       "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DeSoos.Microsoft.AspNetCore.StaticWebAssets.props",
