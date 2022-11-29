@@ -40,6 +40,7 @@ footer {
     .nav_inner, .footer_inner {
         display: flex;
         align-items: center;
+        gap: 5vw;
     }
         .nav_left, .footer_left {
 
@@ -76,6 +77,19 @@ footer {
                 .nav_right_button:hover, .footer_right_button:hover {
                     cursor: pointer;
                     color: #BCB800;
+                }
+                .nav_right_button_dropdown {
+                    display: none;
+                    position: absolute;
+                    background: rgba(25, 25, 25, .50);
+                    text-align: center;
+                    border-radius: 25px;
+                    padding: 10px;
+                    min-width: 10vw;
+                    z-index: 1;
+                }
+                .nav_right_dropdown:hover .nav_right_button_dropdown {
+                    display: block;
                 }
 
 .button_wrapper {
