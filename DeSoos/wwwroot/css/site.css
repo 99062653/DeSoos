@@ -13,7 +13,6 @@ html, body {
 
 body {
     background-image: url(../img/BackgroundImg.png);
-    background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -25,9 +24,13 @@ a {
     text-decoration: none;
 }
 
+i {
+
+}
+
 nav, footer {
     background-color: rgba(25, 25, 25, .90);
-    width: 100%;
+    min-width: 100%;
 }
 nav {
     
@@ -48,83 +51,60 @@ footer {
                 position: relative;
                 left: 1vw;
             }
-            .nav_left_logo {
-                height: 150px;
-                width: 300px;
+            .nav_left_buttons {
+
             }
-                .nav_left_logo:hover {
-                    filter: invert(61%) sepia(92%) saturate(432%) hue-rotate(18deg) brightness(93%) contrast(102%);
+                .nav_left_logo {
+                    max-height: 150px;
+                    max-width: 300px;
+                    padding: 5px;
+                }
+                    .nav_left_logo:hover {
+                        filter: invert(61%) sepia(92%) saturate(432%) hue-rotate(18deg) brightness(93%) contrast(102%);
                 }
             .footer_left_disclaimer {
                 color: #F3EA13;
                 font-size: 15px;
             }
-        .nav_right, .footer_right {
+        .nav_right, .nav_right_buttons, .footer_right {
             display: flex;
-        }
-        .nav_right {
-            position: fixed;
-            right: 10vw;
-            gap: 5vw;
         }
         .footer_right {
             position: fixed;
             right: 1vw;
             gap: 1vw;
         }
-            .nav_right_button, .nav_right_dropdown_button, .footer_right_button {
-                color: #F3EA13;
+            .nav_right_buttons {
+                flex-direction: row;
+                align-self: center;
+                position: fixed;
+                right: 10vw;
+                gap: 5vw;
             }
-                .nav_right_button:hover, .footer_right_button:hover {
-                    cursor: pointer;
-                    color: #BCB800;
+                .nav_right_button, .nav_right_dropdown_button, .footer_right_button {
+                    color: #F3EA13;
                 }
                 .nav_right_dropdown_button {
                     display: none;
+                    margin-left: auto;
                 }
-                .nav_right_dropdown {
-                    position: relative;
-                    display: inline-block;
-                }
-                    .nav_right_dropdown-content {
-                        display: none;
-                        position: absolute;
-                        background-color: rgba(25, 25, 25, .50);
-                        padding: 5px 5px;
-                        border-radius: 15px;
-                        min-width: 8vw;
+                    .nav_right_button:hover, .nav_right_dropdown_button:hover, .footer_right_button:hover {
+                        cursor: pointer;
+                        color: #BCB800;
                     }
-                    .nav_right_dropdown:hover .nav_right_dropdown-content {
-                        display: block;
-                    }
-
-@media screen and (max-width: 900px) {
-    .nav_right div:not(:last-child), .nav_right_dropdown .nav_right_button {
-        display: none;
-    }
-
-    .nav_right a.nav_right_dropdown_button {
-        display: block;
-        padding: 5px;
-        position: fixed;
-        right: 1vw;
-    }
-}
-
-@media screen and (max-width: 900px) {
-    .nav_right.responsive {
-        position: relative;
-    }
-        .nav_right.responsive .button_wrapper {
-            display: block;
-            text-align: left;
-        }
-
-    .nav_right.responsive, .button_wrapper .nav_right_dropdown .nav_right_button {
-        display: block;
-        width: 100%;
-    }
-}
+                        .nav_right_dropdown-content {
+                            display: none;
+                            position: absolute;
+                            background-color: rgba(25, 25, 25, .50);
+                            padding: 5px 5px;
+                            border-radius: 15px;
+                            min-width: 8vw;
+                            white-space: nowrap;
+                        }
+                        .nav_right_dropdown:hover .nav_right_dropdown-content {
+                            display: flex;
+                            flex-direction: column;
+                        }
 
 .button_wrapper {
     transition: transform .2s;
@@ -139,3 +119,32 @@ footer {
     .contact_bar {
         background-color: #F3EA13;
     }
+
+@media screen and (max-width: 900px) {
+    .nav_right_buttons {
+        display: none;
+    }
+
+    .nav_right_buttons.responsive {
+        display: flex;
+        flex-direction: column;
+        background-color: rgba(25, 25, 25, .90);
+        position: absolute;
+        top: 4.30em;
+        right: 0;
+        min-width: 100vw;
+        text-align: left;
+    }
+
+    .nav_right_dropdown_button {
+        display: flex;
+    }
+
+    .button_wrapper {
+        transition: none;
+    }
+
+        .button_wrapper:hover {
+            transform: none;
+        }
+}
