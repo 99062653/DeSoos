@@ -8,29 +8,29 @@
                     </a>
                 </div>
             </div>
-            <div class="nav_right">
+            <div id="NavRight" class="nav_right">
                 <div class="button_wrapper">
                     <a class="nav_right_button" href="/agenda"><i class="fa-solid fa-calendar-days"></i> Agenda</a>
                 </div>
                 <div class="button_wrapper">
-                    <div class="nav_right_dropdown foto">
+                    <div class="nav_right_dropdown">
                         <a class="nav_right_button" href="/foto"><i class="fa-solid fa-camera"></i> Foto's <i class="fa-solid fa-caret-down"></i></a>
-                        <div class="nav_right_button_dropdown foto">
+                        <div class="nav_right_dropdown-content">
                             <div class="button_wrapper">
-                                <a class="nav_right_button" href="/work"><i class="fa-solid fa-trash-can"></i> Foto verwijderen</a>
+                                <a class="nav_right_button" href="/work"><i class="fa-solid fa-trash-can"></i> Verwijderen</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="button_wrapper">
-                    <div class="nav_right_dropdown info">
+                    <div class="nav_right_dropdown">
                         <a class="nav_right_button" href="/info"><i class="fa-solid fa-circle-info"></i> Info <i class="fa-solid fa-caret-down"></i></a>
-                        <div class="nav_right_button_dropdown info">
+                        <div class="nav_right_dropdown-content">
                             <div class="button_wrapper">
-                                <a class="nav_right_button" href="/work"><i class="fa-solid fa-briefcase"></i> Werken bij</a>
+                                <a class="nav_right_button" href="/werkenbij"><i class="fa-solid fa-briefcase"></i> Werken Bij</a>
                             </div>
                             <div class="button_wrapper">
-                                <a class="nav_right_button" href="/rules"><i class="fa-solid fa-scale-balanced"></i> Huisregels</a>
+                                <a class="nav_right_button" href="/regels"><i class="fa-solid fa-scale-balanced"></i> Huisregels</a>
                             </div>
                         </div>
                     </div>
@@ -38,6 +38,7 @@
                 <div class="button_wrapper">
                     <a class="nav_right_button" href="/contact"><i class="fa-solid fa-address-book"></i> Contact</a>
                 </div>
+                <a class="nav_right_dropdown_button" href="javascript:void(0);" onclick="OpenDropdownResponsive()">&#9776;</a>
             </div>
         </div>
     </nav>
