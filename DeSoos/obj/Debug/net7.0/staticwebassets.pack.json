@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\BackgroundImg.png",
+      "Id": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\BackgroundImg.png",
       "PackagePath": "staticwebassets\\img\\BackgroundImg.png"
     },
     {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.png",
+      "Id": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.png",
       "PackagePath": "staticwebassets\\img\\SoosLogo.png"
     },
     {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.svg",
+      "Id": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.svg",
       "PackagePath": "staticwebassets\\img\\SoosLogo.svg"
     },
     {
-      "Id": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

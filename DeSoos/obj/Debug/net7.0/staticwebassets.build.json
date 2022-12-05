@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Dnvlp2USlRwfiQOGD40JJu9jws2b5SylKlhjV8yajPU=",
+  "Hash": "3Dh0mgzHhV9z/mRzAt7ojCA0Zmwob0VQN/jNRcB0MWA=",
   "Source": "DeSoos",
   "BasePath": "_content/DeSoos",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DeSoos\\wwwroot",
       "Source": "DeSoos",
-      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\css\\site.css",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\favicon.ico",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\BackgroundImg.png",
+      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\BackgroundImg.png",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "img/BackgroundImg.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\img\\BackgroundImg.png"
     },
     {
-      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.png",
+      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.png",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "img/SoosLogo.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SoosLogo.png"
     },
     {
-      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.svg",
+      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\img\\SoosLogo.svg",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "img/SoosLogo.svg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SoosLogo.svg"
     },
     {
-      "Identity": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\js\\site.js",
       "SourceId": "DeSoos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricky\\OneDrive\\Documenten\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricky\\Documents\\GitHub\\DeSoos\\DeSoos\\wwwroot\\",
       "BasePath": "_content/DeSoos",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
